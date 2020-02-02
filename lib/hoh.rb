@@ -31,7 +31,8 @@
 # }
 
 def naming_system
-   Kingdom = { 
+a_system = 
+   Kingdom: { 
      Phylum: {
        Class: {
          Order: {,
@@ -48,5 +49,5 @@ def naming_system
    
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
-Kingdom
+a_system
 end
