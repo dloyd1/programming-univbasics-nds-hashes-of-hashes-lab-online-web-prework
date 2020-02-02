@@ -32,8 +32,8 @@
 
 def naming_system
 a_system = {
-   label: "Kingdom", 
-     Phylum: {
+   label: "Kingdom",
+    sub_category: "Phylum": {
        Class: {
          Order: {
            Family: {
