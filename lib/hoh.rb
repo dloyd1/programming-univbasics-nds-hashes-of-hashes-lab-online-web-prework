@@ -35,7 +35,7 @@ a_system =
    Kingdom: { 
      Phylum: {
        Class: {
-         Order: {,
+         Order: {
            Family: {
              Genus: {
                Species: {
