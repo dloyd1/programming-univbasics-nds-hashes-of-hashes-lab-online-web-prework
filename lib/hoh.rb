@@ -47,11 +47,11 @@ a_system = {
                 label: "Species",
                  sub_category: nil 
                  }
-                }
-              }
-            }
-          }
-        }
+               }
+             }
+           }
+         }
+       } 
 }
    
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
