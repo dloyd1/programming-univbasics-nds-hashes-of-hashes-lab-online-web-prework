@@ -34,11 +34,16 @@ def naming_system
 a_system = {
    label: "Kingdom",
     sub_category: {
-      label: "Phylum" {
+      label: "Phylum"
+       sub_category: {
        Class: {
+         sub_category: {
          Order: {
+           sub_category: {
            Family: {
+             sub_category: {
              Genus: {
+               sub_category: {
                Species: {
                }
               }
