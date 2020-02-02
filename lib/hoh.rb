@@ -45,15 +45,15 @@ a_system = {
               label: "Genus",
                sub_category: {
                 label: "Species",
-                 sub_category: nil
-               }
+                 sub_category: nil 
+                 }
+                }
               }
             }
           }
         }
       }
     }
- }
    
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
